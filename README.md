@@ -1,4 +1,4 @@
-# useful_functions
+# Useful Functions
 
 Useful functions for specific problems
 
